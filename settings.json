@@ -1,0 +1,12 @@
+{
+  "token": "OTM2MjY1MTc1MTk4MjI0NTY0.YfKq5A.8gAkVVc01ntdE_3-MeEDyIxogSw",
+  "prefix" : "xit.",
+  "owner" : ["835214116431724545","",""],
+  "clientid" : "935581068168396830",
+  "clientsecret" : "7cdBE7nd0Ifg7313ACXovZb9ixrjwuMA",
+  "clientcallback" : "CALLBACK URL",
+  "mongoURL" : "mongodb+srv://yt:123test@cluster0.uvjch.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "serverID": "913065939833065482",
+  "footer": "XitBotlist | Xirty Developet",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
